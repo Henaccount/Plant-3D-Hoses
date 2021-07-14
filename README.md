@@ -17,7 +17,7 @@ Manual for hose.dll:
 
  
 
-how to use:
+##how to use:
 
 -----------
 
@@ -33,7 +33,7 @@ how to use:
 
  
 
-how to set up:
+##how to set up:
 
 --------------
 
@@ -51,7 +51,7 @@ how to set up:
 
  
 
-limitations:
+##limitations:
 
 ------------
 
@@ -63,7 +63,7 @@ limitations:
 
  
 
-parameters:
+##parameters:
 
 -----------
 
@@ -73,9 +73,7 @@ shape: 4 different shapes 0,1,2,3, 3 is most simple
 
 scale: you can scale the diameter
 
-specalternatepath: (can be empty if not needed) if the specs are not in the default project folder, 
-
-                    you can specify here (you have to use / for the path, no \ allowed)
+specalternatepath: (can be empty if not needed) if the specs are not in the default project folder, you can specify here (you have to use / for the path, no \ allowed)
 
  
 
