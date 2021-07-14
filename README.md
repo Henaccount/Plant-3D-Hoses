@@ -17,7 +17,7 @@ Manual for hose.dll:
 
  
 
-##how to use:
+## how to use:
 
 -----------
 
@@ -33,7 +33,7 @@ Manual for hose.dll:
 
  
 
-##how to set up:
+## how to set up:
 
 --------------
 
@@ -51,7 +51,7 @@ Manual for hose.dll:
 
  
 
-##limitations:
+## limitations:
 
 ------------
 
@@ -63,7 +63,7 @@ Manual for hose.dll:
 
  
 
-##parameters:
+## parameters:
 
 -----------
 
