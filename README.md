@@ -1,6 +1,7 @@
 # Plant-3D-Hoses
-<pre>
+
 See video: https://youtu.be/2-rJcDCbhmw
+<pre>
 
 How to create hoses in Plant 3d? You can create them using a spline and extruding a circle on it. Then you make a block out of it. Then you prepare it using PLANTPARTCONVERT. Then you use it as a custom part using "add custom part" from the dynamic tool palette. Then you write the properties in the properties palette..
 
